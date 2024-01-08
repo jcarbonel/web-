@@ -46,7 +46,7 @@ section {
 
 body {
     max-width: 1200px;
-    max-height: 873px;
+    max-height: 973px;
     margin: 0 auto;
     background-image: url(Karli.jpg);
     background-repeat: no-repeat; 
@@ -58,5 +58,5 @@ body {
 p {
     font-size: xx-large;
     justify-content: center;
-    color: pink;
+    color: white;
 }
